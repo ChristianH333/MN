@@ -24,3 +24,4 @@ numero_iteraciones = 100
 
 fixed_point_iteration(g, aproximacion_inicial, tolerancia, numero_iteraciones)
 
+
